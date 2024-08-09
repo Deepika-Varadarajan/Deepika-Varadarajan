@@ -5,17 +5,19 @@ My expertise lies in leveraging advanced analytics techniques to drive strategic
 
 
 💼 Product Management
-0-1 Development of QDox for Banking(CITIBANK EMEA) at HCL and Player performance Analytics for sports customers like DFL, Olympic Broadcasting Services  at Quantiphi.
-Skilled in agile methodology, product strategy, and market analysis.
-Adept in customer research, A/B testing, and product lifecycle management.
+
+1) Development of Custodain Banking Apllication for (CITIBANK EMEA) at HCL and Player performance Analytics for sports customers like DFL, Olympic Broadcasting Services  at Quantiphi.
+2) Skilled in agile methodology, product strategy, and market analysis.
+3) Adept in customer research, A/B testing, and product lifecycle management.
 
 📊 Data Analysis
-Expertise in leveraging advanced analytics tools like Tableau, Power BI, and SQL.
-Proficient in Python, R, and various database management systems.
-Experienced in optimizing supply chains, customer segmentation analysis, and predictive modeling.
+1) Expertise in leveraging advanced analytics tools like Tableau, Power BI, and SQL.
+2) Proficient in Python, R, and various database management systems.
+3) Experienced in optimizing supply chains, customer segmentation analysis, and predictive modeling.
 
 📈 Business Analysis
-Proven ability in business intelligence, market analysis, and financial modeling.
-Experienced in project management, fostering stakeholder engagement, and cross-functional collaboration.
-Actively Participated throught SDLC and Product lifecylcle activities.Key point of contact between development team and stakeholder
-Extensive experience in Technical Documentation Like Business Requirement Documentation,User Stories,Functional specifictaion Document,Project Status Reports,Product wireframes,mockups,Release notes ,Test Cases,Test Plans and UAT Testing.Hands on experience in Change management process 
+1) Proven ability in business intelligence, market analysis, and financial modeling.
+2) Highly Proficient in conducting User Interviews,Feed Back sessions and Requirement Gathering sessions with key stakeholders.
+3) Experienced in project management, fostering stakeholder engagement, and cross-functional collaboration.
+4) Actively Participated throught SDLC and Product lifecylcle activities.Key point of contact between development team and stakeholder
+5) Extensive experience in Technical Documentation Like Business Requirement Documentation,User Stories,Functional specifictaion Document,Project Status Reports,Product wireframes,mockups,Release notes ,Test Cases,Test Plans and UAT Testing.Hands on experience in Change management process 
