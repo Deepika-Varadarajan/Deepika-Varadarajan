@@ -5,7 +5,6 @@ My expertise lies in leveraging advanced analytics techniques to drive strategic
 
 
 💼 Product Management
-
 1) Development of Custodain Banking Apllication for (CITIBANK EMEA) at HCL and Player performance Analytics for sports customers like DFL, Olympic Broadcasting Services  at Quantiphi.
 2) Skilled in agile methodology, product strategy, and market analysis.
 3) Adept in customer research, A/B testing, and product lifecycle management.
